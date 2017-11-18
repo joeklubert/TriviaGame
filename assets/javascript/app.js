@@ -4,14 +4,14 @@ function myFunction() {
 }
 
 $(document).ready(function(){
-    $(".game").onload(function(){
-        $("#nextQuestion").hide();
-    });
+    // $(".game").onload(function(){
+    //     $("#nextQuestion").hide();
+    // });
 });
 
 $(document).ready(function(){
     $("#gameStart").click(function(){
-        $("question").hide();
+        $("#question").hide();
     });
     $("#show").click(function(){
         $("p").show();
@@ -20,6 +20,7 @@ $(document).ready(function(){
 
 function  myquestion(question){
 
+}
 
 var i = [
 	{
