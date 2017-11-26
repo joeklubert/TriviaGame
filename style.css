@@ -1,0 +1,268 @@
+
+
+html { 
+  background: url("../images/images.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+
+	background-color: red;
+	text-align: center;
+	text-shadow: 3px 3px orange;
+	margin-left: 500px;
+	margin-right: 550px;
+	margin-height: 100px;
+<<<<<<< HEAD
+
+=======
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+	
+
+	
+}
+
+<<<<<<< HEAD
+/* #startgame {
+
+	color: white;
+}*/
+
+ #openText {
+
+	color:white;
+	background-color: red;
+	text-align: center;
+	height: 50px;
+	width: 300px;
+	padding-top: 20px;
+	margin-top: 150px;
+	margin-left: 250px;
+}
+
+ #gameStartscreen {
+    width: 750px;
+    height: 450px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
+    float: left;
+    clear:left;
+    background-color: yellow;
+    
+    margin-left: 500px;
+
+}
+
+=======
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+
+
+	 .game {
+    width: 750px;
+<<<<<<< HEAD
+    height: 450px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
+   float: left;
+    clear:left;
+    background-color: yellow;
+    
+    margin-left: 500px;
+    
+
+
+}
+
+
+
+
+#gameStart {
+
+	
+	height: 50px;
+	width: 200px;
+	background-color: black;
+	margin-left: 845px;
+	color: white;
+	
+	
+
+}
+
+	
+	
+
+
+
+
+#nextQuestion {
+
+	background-color: black;
+	height: 50px;
+	width: 200px;
+	color: white;
+	
+	
+	margin-right: 100px;
+
+=======
+    height: 600px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 50px;
+    float: left;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 500px;
+    font-size: medium;
+
+
+}
+#button {
+
+	height: 50px;
+	width: 50px;
+	margin-right: 350px;
+	
+	
+
+}
+
+#gameStart {
+
+	background-color: red;
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	margin-left: 500px;
+	
+	float: left;
+}
+
+/*.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}*/
+
+#nextQuestion {
+
+	background-color: orange;
+	height: 50px;
+	width: 150px;
+	float: right;
+	margin-right: 555px;
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+	
+	
+
+
+
+}
+
+<<<<<<< HEAD
+ #gameStart , #nextQuestion {
+	display:inline-block;
+
+
+}
+
+.form1 {
+
+	margin-top: 70px;
+	align-items: left;
+	
+	font-size: x-large;
+=======
+.form {
+
+	float: left;
+	align-items: left;
+	margin: 200 auto;
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+	
+
+}
+
+input {
+    display: table-cell;
+    float: left;
+   
+}
+
+<<<<<<< HEAD
+ #question1 {
+=======
+#question {
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+
+	float: left;
+	font-size: xx-large;
+
+
+	
+}
+
+<<<<<<< HEAD
+#question2 {
+=======
+#questiontwo {
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+
+	float: left;
+	font-size: xx-large;
+	
+}
+
+<<<<<<< HEAD
+.form2 {
+	margin-top: 25px;
+	float: left;
+	clear: left;
+	align-items: left;
+	
+	font-size: x-large;
+
+
+}
+
+#submitAnswer, #getResults {
+
+	display: inline-block;
+	margin-top: 25px;
+	background-color: black;
+	color: white;
+}
+
+#submitAnswer {
+
+	
+=======
+#submitanswer {
+
+	background-color: green;
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+	height: 50px;
+	width: 150px;
+	float: left;
+}
+
+<<<<<<< HEAD
+#getResults {
+
+	
+=======
+#getresults {
+
+	background-color: green;
+>>>>>>> f4adcbc2d1d84dcf09c1721b54a289fab132e8d3
+	height: 50px;
+	width: 150px;
+	float: right;
+}
+
